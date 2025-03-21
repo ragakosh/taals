@@ -1,5 +1,5 @@
 import type { Taal } from './types';
-export const taals: Taal[] = [
+export const taals: readonly Taal[] = [
     {
         "name": "Dadra",
         "beats": 6,
