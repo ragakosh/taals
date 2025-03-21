@@ -1,6 +1,6 @@
 {
   "name": "@ragakosh/taal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A taal library with collection of tabla taal notations",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
